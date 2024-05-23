@@ -1,0 +1,43 @@
+#logout_link{
+	text-decoration: none;
+	color: orange;
+}
+
+#left_sidebar{
+	margin-top: 50px;
+	width: 13vw;
+	height: 30vh;
+	display: inline-block;
+}
+
+#left_sidebar{
+	margin-top: 50px;
+	width: 13vw;
+	height: 30vh;
+	display: inline-block;
+}
+
+
+#left_sidebar table tr{
+	background-color: #0096FF;
+	color: white;
+	font-size: 18px;
+
+}
+
+#left_sidebar table tr:hover{
+	background-color: #D4F6CC;
+	color: black;
+
+}
+#logout_link{
+	text-decoration: none;
+	color: white;
+}
+
+#logout_link:hover{
+	background-color: #D4F6CC;
+	color: black;
+}
+
+
